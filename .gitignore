@@ -56,10 +56,6 @@ make.log
 !.gitignore
 !.mailmap
 
-# gallen add [.
-!.config
-# gallen add ].
-
 #
 # Generated include files
 #
