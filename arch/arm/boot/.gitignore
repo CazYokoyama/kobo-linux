@@ -2,4 +2,5 @@ Image
 zImage
 xipImage
 bootpImage
-uImage
+uImage-*.*
+
